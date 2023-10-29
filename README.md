@@ -6,7 +6,7 @@
  
  And I love fruit very much.        
  
-      [![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapao0110&show_icons=true&theme=tokyonight)
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapao0110&show_icons=true&theme=tokyonight)
 
 
 ### My side projects
